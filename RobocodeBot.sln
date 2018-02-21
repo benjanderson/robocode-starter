@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobocodeBot", "RobocodeBot\RobocodeBot.csproj", "{0A14242D-CE4B-49D5-BE52-73A47A88D4EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "robocode", "robocode", "{424E6D65-DC68-4801-9854-15D7CE522C07}"
+	ProjectSection(SolutionItems) = preProject
+		robocode\robocode.dll = robocode\robocode.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A14242D-CE4B-49D5-BE52-73A47A88D4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A14242D-CE4B-49D5-BE52-73A47A88D4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A14242D-CE4B-49D5-BE52-73A47A88D4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A14242D-CE4B-49D5-BE52-73A47A88D4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F4CB81-176F-4E67-8552-427637BBBA36}
+	EndGlobalSection
+EndGlobal
